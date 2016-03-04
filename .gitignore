@@ -27,7 +27,9 @@ Temporary Items
  *.msm
  *.msp
 
+
 # Windows shortcuts
+.metadata/
 *.lnk
 # cache files for sublime text
 *.tmlanguage.cache
